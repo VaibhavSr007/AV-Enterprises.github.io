@@ -127,7 +127,15 @@ To access the admin panel, follow these steps:
   
 ## Screenshots
 
-
+![40](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/fa83d45b-932f-409e-a9ca-a3a044542a17)
+![31](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/95b6bcaf-eca0-450d-858d-5dc1a9c1ba5c)
+![36](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/ecfa31d5-194b-4fe5-a4ed-d81fd63ac060)
+![37](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/f48461ed-dcf7-422f-8d0c-ceb75bdc78f9)
+![38](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/a256d6fc-9d42-4af0-8604-e584bc0c6549)
+![39](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/40446265-198d-41d9-944f-2e64dcf1ec77)
+![41](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/4df04111-aa1c-4b60-9632-845dda505646)
+![43](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/e86447c9-cc57-4451-8bf8-43e10c585602)
+![44](https://github.com/VaibhavSr007/AV-Enterprises.github.io/assets/99118025/349d3e06-a77f-4fb1-8e10-d6f028d09bd6)
 
 
 ## Demo
