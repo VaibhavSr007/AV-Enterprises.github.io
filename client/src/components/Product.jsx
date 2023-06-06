@@ -2,15 +2,6 @@ import {FavoriteBorderOutlined, Search, ShoppingCartOutlined } from '@material-u
 import React from 'react'
 import { Link } from "react-router-dom";
 import styled from 'styled-components'
-import p1 from "./static/aq-sel-ed-br.png"
-import p2 from "./static/aq_infi.png"
-import p3 from "./static/vc_super_br.png"
-import p4 from "./static/aq-royal-br.png"
-import p5 from "./static/vc_xprt.png"
-import p6 from "./static/aq_enh.png"
-import p7 from "./static/vc_sel_br.png"
-import p8 from "./static/aq_rapid.png"
-import p9 from "./static/aq_superb.png"
 
 
 const Info = styled.div`
