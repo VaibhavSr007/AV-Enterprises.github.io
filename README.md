@@ -142,5 +142,5 @@ To access the admin panel, follow these steps:
 
 Demo Video Link
 
-https://youtu.be/tdYITPnwLfY
+https://youtu.be/J7FbkD1IyHg
 
